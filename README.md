@@ -1,1 +1,3 @@
 # Glyco-Estimated-Sugar-Level-Predictor
+
+This repository contains data of patients with theu instantetnous sugar levels from the Glyco Project. There is also a pre trained model in the Model folder. Finally there is a Autokeras.py file which contains a script for automated deep learning of the data in order to produce the model. Depending on the number of trials and epochs you will get different results.
